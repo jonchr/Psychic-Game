@@ -35,7 +35,7 @@
 
 		//Comes up with a random new letter to be guessed
 		theLetter = alphabet[Math.floor(Math.random() * 25)];
-		console.log("Guessed " + guessedLetter);
+		
 		//Logs the answer letter (yes, you can cheat using console)
 		console.log("The letter is " + theLetter);
 
