@@ -21,6 +21,6 @@ Upon cloning to your local machine, you can change the layout by editing index.h
 
 ## Screenshots
 ### The Psychic Game
-![Main Page](images/main_page.png)
+![Main Page](assets/images/main_page.png)
 ### You have one attempt left - make the most of it
-![One More Attempt](images/one_attempt_left.png)
+![One More Attempt](assets/images/one_attempt_left.png)
